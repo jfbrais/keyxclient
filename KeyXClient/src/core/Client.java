@@ -1,17 +1,20 @@
 /******************************************************
  Compagnie :	Transax Technologies
  Projet :		KeyExchangeClient
- Programmeur :	Jean-François Brais-Villemur, Analyste Réseau
+ Auteurs : 		Jean-François Brais-Villemur, Analyste Réseau
+ 				Marc-André Laporte, Programmeur Analyste
  Superviseur :	Alain Boucher, CTO
  Classe :		Client.java			 
  Création  :	2010-03-08
- Dern. mod : 	2010-03-17
+ Dern. mod : 	2010-03-23
  *******************************************************
  Historique des modifications
  *******************************************************
  2010-03-08 :	Début du projet
  
  2010-03-17 :	Ajout d'un TerminalID
+ 
+ 2010-03-23 : 	Concept d'authentification sur connexion.
  *******************************************************/
 
 package core;
